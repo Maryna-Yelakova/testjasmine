@@ -5,5 +5,3 @@ describe("Get Sum", function() {
 });
 
 
-jasmine.execute();
-
