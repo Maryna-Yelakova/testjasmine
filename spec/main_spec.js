@@ -1,5 +1,9 @@
-describe("Get Weight", function() {
-    it("getWeight", function() {
-        expect(getWeight()).toEqual(45);
+describe("Get Sum", function() {
+    it("getSum", function() {
+        expect(getSum()).toEqual(4);
     });
 });
+
+
+jasmine.execute();
+
