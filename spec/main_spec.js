@@ -1,6 +1,6 @@
 describe("Get Sum", function() {
     it("getSum", function() {
-        expect(getSum()).toEqual(4);
+        expect(getSum()).toBe(4);
     });
 });
 
