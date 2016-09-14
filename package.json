@@ -4,7 +4,7 @@
   "description": "\"Test circle CI heroku deployment\"",
   "main": "server.js",
   "scripts": {
-    "test": "./node_modules/.bin/jasmine",
+    "test": "node ./node_modules/jasmine/bin/jasmine.js",
     "start": "node server.js"
   },
   "repository": {
